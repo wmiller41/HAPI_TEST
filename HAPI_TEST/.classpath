@@ -2,31 +2,31 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/annotations-2.0.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/commons-codec-1.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/commons-lang3-3.3.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/cors-filter-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/hapi-fhir-base-0.8.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/hapi-fhir-structures-dev-0.8.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/hapi-fhir-structures-dstu-0.8.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/httpclient-4.3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/httpcore-4.3.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/javassist-3.16.1-GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/javax.json-1.0.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/javax.json-api-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/jcl-over-slf4j-1.7.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/logback-classic-1.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/logback-core-1.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/ognl-3.0.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/phloc-commons-4.3.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/phloc-schematron-2.7.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/Saxon-HE-9.5.1-5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/slf4j-api-1.7.7.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/stax2-api-3.1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/stax-api-1.0-2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/thymeleaf-2.1.3.RELEASE.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/unbescape-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Will/IHI_HAPI-FHIR/HAPI_TEST/woodstox-core-asl-4.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/annotations-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/cors-filter-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/hapi-fhir-base-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/hapi-fhir-structures-dstu-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/hapi-fhir-structures-dstu2-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/httpclient-4.3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/javassist-3.16.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/jcl-over-slf4j-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/logback-classic-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/logback-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/ognl-3.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/phloc-commons-4.3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/phloc-schematron-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/Saxon-HE-9.5.1-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/thymeleaf-2.1.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/unbescape-1.1.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Will/git/HAPI_TEST/HAPI_TEST/woodstox-core-asl-4.4.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
